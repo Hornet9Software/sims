@@ -6,3 +6,6 @@ How to load into Gazebo Editor:
 # TODO:
    * ROS2 Bridge
    * Hydro
+   * Either:
+       * figure out how to bind models together (to reduce clutter) or
+       * create a Python editor for easier editing
